@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_login_vk (0.1.0):
+    - Flutter
+    - VK-ios-sdk (~> 1.6.1)
+  - VK-ios-sdk (1.6.2)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_login_vk (from `.symlinks/plugins/flutter_login_vk/ios`)
+
+SPEC REPOS:
+  trunk:
+    - VK-ios-sdk
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_login_vk:
+    :path: ".symlinks/plugins/flutter_login_vk/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  flutter_login_vk: 9dad26a328a4f2e3fa28347d10ab13afe26f0999
+  VK-ios-sdk: 5bcf00a2014a7323f98db9328b603d4f96635caa
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.10.1
